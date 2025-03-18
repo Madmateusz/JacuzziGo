@@ -10,12 +10,12 @@ function App() {
     <>
     
     <div>
-      
-      <p>Work In Progres</p>
-
-      <header>
+    <header>
         <h1>Jacuzzi GO</h1>
         </header>
+      <p>Work In Progres</p>
+
+      
     </div>
       {/* <div>
         <a href="https://vite.dev" target="_blank">

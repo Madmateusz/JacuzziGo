@@ -69,18 +69,7 @@ button:focus-visible {
 } }
     */
 
-header
- {position: absolute;
-  top: -2em;
-  left: 10px; 
-  width: calc(100% - 10px);
-  text-align: center;
-  margin: auto;
-  margin-right:-10px ;
-  
-  
 
-}
 h1
 {
 

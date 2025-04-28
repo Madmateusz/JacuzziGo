@@ -1,0 +1,36 @@
+header
+ {position: absolute;
+   top: 0em; 
+  left: 10px; 
+  width: 100% ;
+  text-align: center;
+
+   /* margin-right:-10px ;  */
+height: 300px;
+
+}
+
+header ul{
+    display: flex;
+    /* position: absolute; */
+    height: 100px;
+    list-style: none;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    justify-items: center;
+}
+
+header  li
+{
+  margin: 20px;
+  text-align: center;
+  justify-content: center;
+justify-items: center;
+}
+header h1
+{
+  margin: 0px;
+  padding: 0px;
+  
+}
